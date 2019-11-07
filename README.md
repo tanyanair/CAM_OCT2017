@@ -12,5 +12,5 @@
 
 ![](https://github.com/HoSyTuyen/CAM_OCT2017/blob/master/visualization.png)
 
-- For more details, please go into CAM.ipynb
-- I also provide my output model 
+- For more details, please go into **CAM.ipynb**
+- I also provide my output model **epoch=05_accuracy=0.9252_val_accuracy=0.9819.h5**
