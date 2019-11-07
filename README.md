@@ -5,8 +5,12 @@
   + MobileNetV2 + Global Average Pooling (GAP) + Softmax Layer
   + The new architecture has fewer parameters (beacause of adding GAP)
 - Comparison classification ability with original MobileNetV2:
-<img src=''>
+
+![](https://github.com/HoSyTuyen/CAM_OCT2017/blob/master/classification_compare.png)
+
 - Visualization:
+
+![](https://github.com/HoSyTuyen/CAM_OCT2017/blob/master/visualization.png)
 
 - For more details, please go into CAM.ipynb
 - I also provide my output model 
